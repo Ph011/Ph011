@@ -1,7 +1,7 @@
 # Opa, tudo bem? Eu sou o **Ph011**, muito prazer 🙋🏻‍♂️
 * 🙅🏻‍♂️ Meu nome é __*Pedro Henrique Santana da Silva*__.
 * 🔞 tenho __*21 anos*__.
-* 👨🏻‍🎓 Atualmente estudo __*TECNOLOGIA EM SISTEMAS PARA INTERNET - EAD*__ na **UNINOVE**.
+* 👨🏻‍🎓 Atualmente estudo __*TECNICO EM MECÂTRONICA*__ no **SENAI**.
 * 👨🏻‍💻 Estudo para me tornar um __*Cientista de Dados*__.
 * 🦾 Um dia quero __*criar uma I.A*__ para me tornar um homem de ferro.
 
