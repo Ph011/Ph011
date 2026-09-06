@@ -1,7 +1,7 @@
 # Opa, tudo bem? Eu sou o **Ph011**, muito prazer 🙋🏻‍♂️
 * 🙅🏻‍♂️ Meu nome é __*Pedro Henrique Santana da Silva*__.
-* 🔞 tenho __*22 anos*__.
-* 👨🏻‍🎓 Atualmente estou cursando __*Bacharel em Sistemas de Informação*__ na **UNINOVE**.
+* 🔞 tenho __*23 anos*__.
+* 👨🏻‍🎓 Atualmente estou cursando __*Tecnólogo em Ciências de Dados para Negócios*__ na **Fatec - Sebrae**.
 * 👨🏻‍💻 Estudo para me tornar um __*Bom Garoto de Programa*__ xD.
 
 ## To buscando um emprego, me chama 🧑🏻‍💻
